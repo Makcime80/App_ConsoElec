@@ -1,4 +1,4 @@
-# ⚡ Suivi SICAE Expert
+# ⚡ Suivi Conso SICAE
 
 Une application web interactive développée avec **Streamlit** et **Plotly** pour analyser en profondeur sa consommation d'électricité (fichiers CSV fournis par le distributeur SICAE).
 
